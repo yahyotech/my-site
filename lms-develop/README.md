@@ -16,11 +16,11 @@
 	<a href="https://docs.frappe.io/learning">Documentation</a>
 </div>
 
-## Frappe Learning
-Frappe Learning is an easy-to-use learning system that helps you bring structure to your content.
+## Mavzu
+Onlayn ta'lim uchun veb ilova ishlab chiqish
 
-### Motivation
-In 2021, we were looking for a Learning Management System to launch [Mon.School](https://mon.school) for FOSS United. We checked out Moodle, but it didn’t feel right. The forms were unnecessarily lengthy and the UI was confusing. It shouldn't be this hard to create a course right? So I started making a learning system for Mon.School which soon became a product in itself. The aim is to have a simple platform that anyone can use to launch a course of their own and make knowledge sharing easier.
+### Motivatsiya
+Bugungi kunda ta’lim jarayoni tobora raqamlashtirilmoqda va onlayn ta’lim bu jarayonda muhim rol o‘ynayapti. Veb-ilova yaratish orqali o‘quvchilarga qulay va samarali ta’lim olish imkoniyatini taqdim etish, bilim olishni yanada erkin va global qilish imkonini beradi. Ushbu loyiha, ta’limning zamonaviy talablariga mos keladigan platforma yaratish orqali, nafaqat o‘quvchilarga, balki o‘qituvchilarga ham o‘z ishlarini samarali va interaktiv tarzda tashkil etish imkonini beradi. Bu ishni amalga oshirish orqali, onlayn ta’limni yanada rivojlantirish va keng tarqatish maqsadimdir.
 
 ### Key Features
 
@@ -153,12 +153,6 @@ To setup the repository locally follow the steps mentioned below:
 
 ## Learn and connect
 
-- [Telegram Public Group](https://t.me/frappelms)
-- [Discuss Forum](https://discuss.frappe.io/c/lms/70)
-- [Documentation](https://docs.frappe.io/learning)
-- [YouTube](https://www.youtube.com/channel/UCn3bV5kx77HsVwtnlCeEi_A)
-
-<br>
 <br>
 <div align="center" style="padding-top: 0.75rem;">
 	<a href="https://frappe.io" target="_blank">
