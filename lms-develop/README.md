@@ -9,10 +9,6 @@
 
 </div>
 
-
-<div align="center">
-	<img src=".github/hero.png?v=5" alt="Hero Image" width="72%" />
-</div>
 <br />
 <div align="center">
 	<a href="https://frappe.io/learning">Website</a>
