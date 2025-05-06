@@ -1,6 +1,6 @@
 <div align="center" markdown="1">
 
-<img src=".github/lms-logo.png" alt="Frappe Learning logo" width="80" height="80"/>
+<img src=".github/logo-lernify.png" alt="Frappe Learning logo" width="80" height="80"/>
 <h1>Learnify - EDU system - o'zbek tilidagi platforma</h1>
 
 **Easy to use, open source, Learning Management System**
